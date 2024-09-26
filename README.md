@@ -1,0 +1,1 @@
+The purpose of this system is to provide users with a web-based tool for voting. It includes an admin panel to manage the website, user accounts, and voting statistics. Users can vote, access their accounts, and view a personal dashboard to monitor their votes. Visitors can also view real-time voting statistics.
