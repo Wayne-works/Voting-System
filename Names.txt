@@ -1,0 +1,12 @@
+Hi, We are the Group 7
+
+Our Topic is
+System: Voting System for Central Student Council (used by a School)
+
+Members:
+
+Karylle Abante - Design, User Interface
+John Wayne Eblamo - Function
+Dexter James Estrada - Database
+
+Thank you!
